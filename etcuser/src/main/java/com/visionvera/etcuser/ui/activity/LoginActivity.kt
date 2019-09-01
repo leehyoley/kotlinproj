@@ -3,7 +3,7 @@ package com.visionvera.etcuser.ui.activity
 import android.os.Bundle
 import com.visionvera.etcuser.R
 import com.visionvera.etcuser.di.DaggerUserComponent
-import com.visionvera.etcuser.di.UserModule
+import com.visionvera.etcuser.di.module.UserModule
 import com.visionvera.etcuser.bean.LoginBean
 import com.visionvera.etcuser.presenter.LoginPresenter
 import com.visionvera.etcuser.presenter.view.LoginView

@@ -2,7 +2,7 @@ package com.visionvera.etcuser.model.impl
 
 import com.visionvera.etcuser.bean.LoginBean
 import com.visionvera.etcuser.bean.UserBean
-import com.visionvera.etcuser.model.UserApi
+import com.visionvera.etcuser.model.api.UserApi
 import com.visionvera.etcuser.model.UserModel
 import com.visionvera.md.base.data.net.RetrofitFactory
 import rx.Observable

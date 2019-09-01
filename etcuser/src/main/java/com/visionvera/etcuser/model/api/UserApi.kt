@@ -1,4 +1,4 @@
-package com.visionvera.etcuser.model
+package com.visionvera.etcuser.model.api
 
 import com.visionvera.etcuser.bean.LoginBean
 import com.visionvera.etcuser.bean.UserBean

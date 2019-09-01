@@ -1,9 +1,9 @@
-package com.visionvera.etcuser.di
+package com.visionvera.etcuser.di.component
 
+import com.visionvera.etcuser.di.module.UserModule
 import com.visionvera.etcuser.ui.activity.LoginActivity
 import com.visionvera.md.base.di.PerComponentScope
 import com.visionvera.md.base.di.component.ActivityComponent
-import com.visionvera.md.base.di.component.AppComponent
 import dagger.Component
 
 @PerComponentScope
